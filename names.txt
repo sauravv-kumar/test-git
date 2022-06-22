@@ -1,0 +1,5 @@
+amazon
+microsoft
+meta
+google
+youtube
